@@ -1,1 +1,1 @@
-# DapperRepository
+# .Net Core - Dapper
